@@ -1,0 +1,8 @@
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\bin\Debug\mathClass.exe.config
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\bin\Debug\mathClass.exe
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\bin\Debug\mathClass.pdb
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\obj\Debug\mathClass.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\obj\Debug\mathClass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\obj\Debug\mathClass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\obj\Debug\mathClass.exe
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\mathClass\obj\Debug\mathClass.pdb

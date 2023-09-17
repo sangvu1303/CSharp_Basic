@@ -1,0 +1,8 @@
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\bin\Debug\operators.exe.config
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\bin\Debug\operators.exe
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\bin\Debug\operators.pdb
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\obj\Debug\operators.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\obj\Debug\operators.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\obj\Debug\operators.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\obj\Debug\operators.exe
+C:\Users\Admin\OneDrive\Máy tính\c#\learnC#\operators\obj\Debug\operators.pdb
